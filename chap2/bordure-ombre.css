@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+h1{
+    color: white;
+    text-shadow: 3px 3px 0px black;
+}
+h2{
+    color: white;
+    text-shadow: 3px 3px 0px black;
+}
+article{
+    color: white;
+    border-top: 10px orange dashed;
+    border-bottom: 10px orange dashed;
+    border-left: 10px orange dashed;
+    border-right: 10px orange dashed;
+    margin-left: 50px ;
+    margin-right: 50px ;
+    margin-bottom: 30px;
+    background-color: cadetblue;
+
+}
+
+

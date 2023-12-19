@@ -1,0 +1,32 @@
+body {
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkolivegreen;
+}
+
+
+.pingouin{
+    background-image: url("pingouin.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1 {
+    color: violet;
+
+}
+h2 {
+    color: white;
+    background-color: rosybrown;
+    border-radius: 10px;
+    padding: 100px;
+}
+p{
+
+}
+article{
+    background-color: red;
+    border-radius: 10px;
+    padding: 100px;
+}
