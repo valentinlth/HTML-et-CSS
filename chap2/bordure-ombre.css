@@ -19,7 +19,14 @@ article{
     margin-right: 50px ;
     margin-bottom: 30px;
     background-color: cadetblue;
+    background-image: url("pingouin.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+
 
 }
+
 
 

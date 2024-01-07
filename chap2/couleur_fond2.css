@@ -3,15 +3,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: darkolivegreen;
+
+
 }
 
 
-.pingouin{
-    background-image: url("pingouin.png");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 h1 {
     color: violet;
 
@@ -20,7 +17,9 @@ h2 {
     color: white;
     background-color: rosybrown;
     border-radius: 10px;
-    padding: 100px;
+
+
+
 }
 p{
 
@@ -28,5 +27,16 @@ p{
 article{
     background-color: red;
     border-radius: 10px;
-    padding: 100px;
+    font-size: 2em;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    background-image: url("pingouin.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+section {
+    background-color: rosybrown;
+    opacity: 0.8;
 }
